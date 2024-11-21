@@ -1,4 +1,5 @@
 # Handwritten Word Recognition Model  
+![Handwritten word recognition](https://github.com/user-attachments/assets/8592c044-be31-4057-bc9e-9cbc47c987e2)
 
 ## Project Overview  
 This project automates the transcription of handwritten text into digital form, leveraging deep learning techniques. It uses the IAM Dataset to train a handwriting recognition model, facilitating seamless data digitization.  
